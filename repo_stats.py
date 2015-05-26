@@ -21,9 +21,12 @@ if __name__ == "__main__":
     total_prs = 0
     repo_most_issues = ("repo", 0)
     repo_most_prs = ("repo", 0)
+    no_issues = 0
     for repo in pc.get_repos():
         #from pdb import set_trace; set_trace()
         #print repo.name
+        if repo.open_issues == 0:
+            no_issues += 1
         pr_count = 0
         for pr  in repo.get_pulls():
             #print pr.number
@@ -44,6 +47,7 @@ if __name__ == "__main__":
     print "Total Pull Requests: %s" % total_prs
     print "Repo with the most open issues: %s with %s issues" % (repo_most_issues[0].name, repo_most_issues[1])
     print "Repo with the most open prs: %s with %s prs" % (repo_most_prs[0].name, repo_most_prs[1])
+    print "Repos with no open issues: %s" % no_issues
 
 
 
