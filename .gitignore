@@ -4,3 +4,4 @@ config.py
 github_token
 venv
 community_management
+audit_logs
