@@ -1,3 +1,5 @@
 config.py
+*.swp
+*.pyc
 github_token
 venv
