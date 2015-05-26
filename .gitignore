@@ -3,3 +3,4 @@ config.py
 *.pyc
 github_token
 venv
+community_management
