@@ -18,5 +18,7 @@ echo "Date: $(date +%F)" >> $email_file
 echo "" >> $email_file
 
 python user_stats.py >> $email_file
+echo "" >> $email_file
+python repo_stats.py >> $email_file
 
 
