@@ -53,6 +53,7 @@ if __name__ == "__main__":
 
     user_actions = {}
     total_issues_created = 0
+    total_issues_closed = 0
     print "Warning not running on full dataset"
     for repo in pc.get_repos()[:10]:
         #from pdb import set_trace; set_trace()
@@ -64,10 +65,16 @@ if __name__ == "__main__":
                 user_action(issue.user.login, 'opened')
                 total_issues_created += 1
 
+            # Handle closure
+            if issue.state == 'closed':
+                if before(issue.closed_at):
+                    user_action(issue.closed_by.login, 'closed')
+                    total_issues_closed += 1
 
 
 
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
+    print "Total Issues Closed(last 30 days): {0}".format(total_issues_closed)
     pp_user_actions()
 
 
