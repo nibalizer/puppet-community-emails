@@ -21,5 +21,5 @@ if __name__ == "__main__":
     for i in pc.get_members():
         members += 1
 
-    print "Community Members: %s" % members
+    print "'Collaborators' github team size(commit bit): %s" % members
     print "Repos: %s" % pc.public_repos
