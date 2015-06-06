@@ -29,4 +29,6 @@ echo "" >> $email_file
 ./community_management/pull_requests.rb -t `cat config.py | grep token | cut -d "=" -f 2 |tr -d '"'` -n puppet-community
 
 
+cat share/closing.txt >> $email_file
+
 
