@@ -54,10 +54,9 @@ if __name__ == "__main__":
     user_actions = {}
     total_issues_created = 0
     total_issues_closed = 0
+    total_merges = 0
     print "Warning not running on full dataset"
     for repo in pc.get_repos()[:10]:
-        #from pdb import set_trace; set_trace()
-        print repo.name
         for issue in repo.get_issues(state='all'):
 
             # Handle creation
@@ -79,11 +78,13 @@ if __name__ == "__main__":
                     if pr.merged:
                         if before(pr.merged_at):
                             user_action(pr.merged_by.login, 'merged')
+                            total_merges += 1
 
 
 
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
     print "Total Issues Closed(last 30 days): {0}".format(total_issues_closed)
+    print "Total PR Merges(last 30 days): {0}".format(total_issues_closed)
     pp_user_actions()
 
 
