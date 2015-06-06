@@ -9,5 +9,9 @@ information out every month or so. It is all Open Source so if there are stats
 you'd like to see here you can add them by adding functionality to the above
 repos.
 
+The code on Puppet-Community is 100% open source and we are always looking for
+new contributors. Ping in #puppet, #puppet-dev, or #puppet-community on
+freenode.
+
 Cheers,
 The Puppet Community Team
