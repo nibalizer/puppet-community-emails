@@ -5,7 +5,9 @@ https://github.com/nibalizer/puppet-community-emails
 
 The sending of the message is not at this time automated.
 If you find this useful, please let us know, we will attempt to push this
-information out every month or so.
+information out every month or so. It is all Open Source so if there are stats
+you'd like to see here you can add them by adding functionality to the above
+repos.
 
 Cheers,
 The Puppet Community Team
