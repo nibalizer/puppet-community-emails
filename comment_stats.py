@@ -36,15 +36,14 @@ def user_action(user, action):
 
 
 def pp_user_actions():
-    print "User                  |Opened|Closed|Merged|Commented|ReOpened"
+    print "User                  |Opened|Closed|Merged|Commented|"
     for user in sorted(user_actions.keys()):
-        print "{:<22}|{:>6}|{:>6}|{:>6}|{:>9}|{:>8}".format(
+        print "{:<22}|{:>6}|{:>6}|{:>6}|{:>9}|".format(
                 user,
                 user_actions[user]['opened'],
                 user_actions[user]['closed'],
                 user_actions[user]['merged'],
-                user_actions[user]['commented'],
-                user_actions[user]['reopened'])
+                user_actions[user]['commented'])
 
 if __name__ == "__main__":
 
@@ -55,8 +54,7 @@ if __name__ == "__main__":
     total_issues_created = 0
     total_issues_closed = 0
     total_merges = 0
-    print "Warning not running on full dataset"
-    for repo in pc.get_repos()[:10]:
+    for repo in pc.get_repos():
         for issue in repo.get_issues(state='all'):
 
             # Handle creation
@@ -80,6 +78,10 @@ if __name__ == "__main__":
                             user_action(pr.merged_by.login, 'merged')
                             total_merges += 1
 
+            # Handle comments
+            for comment in issue.get_comments():
+                if before(comment.created_at):
+                    user_action(comment.user.login, 'commented')
 
 
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
