@@ -20,5 +20,13 @@ echo "" >> $email_file
 python user_stats.py >> $email_file
 echo "" >> $email_file
 python repo_stats.py >> $email_file
+echo "" >> $email_file
+python comment_stats.py >> $email_file
+
+echo "" >> $email_file
+
+# Community Mgmt repo comes from Morgan++
+./community_management/pull_requests.rb -t `cat config.py | grep token | cut -d "=" -f 2 |tr -d '"'` -n puppet-community
+
 
 
