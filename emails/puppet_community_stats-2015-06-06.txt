@@ -1,0 +1,298 @@
+Hi Everyone,
+
+Here are some neat stats about our community.
+
+Date: 2015-06-06
+
+'Collaborators' github team size(commit bit): 37
+Repos: 54
+
+Total Issues: 192
+Total Pull Requests: 126
+Repo with the most open issues: puppet-network with 23 issues
+Repo with the most open prs: puppet-mcollective with 38 prs
+Repos with no open issues: 15
+
+Total Issues Created(last 30 days): 151
+Total Issues Closed(last 30 days): 139
+Total PR Merges(last 30 days): 139
+Breakdown of last 30 days by user:
+User                  |Opened|Closed|Merged|Commented|
+Conzar                |     1|     0|     0|        3|
+DavidS                |     1|     0|     0|        2|
+ITBlogger             |     0|     0|     0|        3|
+Marius2805            |     1|     0|     0|        1|
+Spredzy               |     3|     0|     0|        1|
+SydOps                |    12|     5|     0|       22|
+TravellingGuy         |     1|     0|     0|        0|
+TristanPeers          |     0|     0|     0|        2|
+VolJin                |     0|     0|     0|        1|
+Z3r0Sum               |     0|     0|     0|        6|
+Zelphy                |     1|     0|     0|        0|
+adrienthebo           |     0|     0|     0|        2|
+avisheksarkar20       |     1|     1|     0|        0|
+bkosick               |     0|     0|     0|        2|
+bluecmd               |     1|     0|     0|        1|
+bman1978              |     1|     0|     0|        0|
+bogdando              |     1|     0|     0|        0|
+centric-jim           |     1|     0|     0|        0|
+cjboyden              |     1|     1|     0|        1|
+claflico              |     0|     0|     0|        1|
+corey-hammerton       |     0|     0|     0|        1|
+cpick                 |     1|     0|     0|        0|
+cyberious             |     1|     0|     0|        4|
+daenney               |     1|    10|     8|       17|
+dalisch               |     1|     1|     0|        2|
+dominics              |     1|     0|     0|        1|
+electrical            |     1|     0|     0|        0|
+elyscape              |     5|     1|     0|        1|
+everestx              |     2|     0|     0|        2|
+f3rr                  |     1|     0|     0|        1|
+ffrank                |     1|     3|     1|       44|
+fgimian               |     6|    11|     3|       28|
+gavmain               |     2|     1|     0|        5|
+ghorsman              |     2|     0|     0|        0|
+grafjo                |     5|     0|     0|        4|
+hajee                 |     2|     0|     0|        6|
+hawky84               |     1|     0|     0|        0|
+holtwilkins           |     1|     0|     0|        0|
+hunner                |     1|     0|     0|        0|
+igalic                |     5|     5|     2|       30|
+jairojunior           |     2|     0|     0|        2|
+jangrewe              |     1|     1|     0|        0|
+johnzimm              |     0|     0|     0|        1|
+juniorsysadmin        |     7|    14|     0|       21|
+kronos-pbrideau       |     0|     0|     0|        2|
+liamjbennett          |    10|    44|    21|       39|
+loki2302              |     2|     0|     0|        0|
+lunaryorn             |     0|     0|     0|        1|
+mcanevet              |     1|     0|     0|        3|
+mhaskel               |     0|     2|     2|        0|
+mkrakowitzer          |     3|     4|     2|        5|
+mmarod                |     1|     0|     0|        0|
+nanliu                |     2|     8|     6|       13|
+neoice                |     0|     0|     0|        1|
+nibalizer             |    16|    22|    18|       49|
+oferzi23              |     1|     0|     0|        1|
+oloc                  |     1|     0|     0|        0|
+op-ct                 |     1|     0|     0|        0|
+pall-valmundsson      |     1|     0|     0|        2|
+propyless             |     0|     0|     0|        1|
+puppet-community-ci   |     0|     0|     0|        3|
+raphink               |     0|     0|     0|        1|
+reidmv                |     2|     0|     0|        4|
+richardc              |     0|     0|     0|        3|
+rmaika                |     0|     0|     0|        1|
+rnelson0              |     1|     0|     0|        2|
+robbyt                |     1|     0|     0|        0|
+rooty0                |     6|     0|     0|        5|
+sammcj                |     0|     0|     0|        2|
+smithtrevor           |     0|     0|     0|        2|
+stack72               |     0|     0|     0|       11|
+stefanandres          |     1|     0|     0|        0|
+stoyansbg             |     1|     0|     0|        1|
+tdb                   |     2|     2|     0|        9|
+terrorobe             |     0|     1|     0|        1|
+tkocheran-chromeriver |     1|     0|     0|        4|
+tmclaugh              |     1|     0|     0|        0|
+tphoney               |     2|     1|     1|        0|
+valtri                |     0|     0|     0|        1|
+vchepkov              |     0|     0|     0|        1|
+ventris               |     2|     0|     0|        0|
+visibilityspots       |     0|     0|     0|        1|
+wcooley               |    16|     1|     0|        3|
+zdenekjanda           |     0|     0|     0|        4|
+
+=== puppet-community/PUPPET-IN-ANGER ===
+  1 open pull requests
+  https://github.com/puppet-community/PUPPET-IN-ANGER/pull/1
+=== puppet-community/pcci ===
+  1 open pull requests
+  https://github.com/puppet-community/pcci/pull/10
+=== puppet-community/puppet-alternatives ===
+  2 open pull requests
+  https://github.com/puppet-community/puppet-alternatives/pull/22
+  https://github.com/puppet-community/puppet-alternatives/pull/21
+=== puppet-community/puppet-corosync ===
+  15 open pull requests
+  https://github.com/puppet-community/puppet-corosync/pull/112
+  https://github.com/puppet-community/puppet-corosync/pull/127
+  https://github.com/puppet-community/puppet-corosync/pull/128
+  https://github.com/puppet-community/puppet-corosync/pull/129
+  https://github.com/puppet-community/puppet-corosync/pull/130
+  https://github.com/puppet-community/puppet-corosync/pull/133
+  https://github.com/puppet-community/puppet-corosync/pull/140
+  https://github.com/puppet-community/puppet-corosync/pull/137
+  https://github.com/puppet-community/puppet-corosync/pull/132
+  https://github.com/puppet-community/puppet-corosync/pull/126
+  https://github.com/puppet-community/puppet-corosync/pull/134
+  https://github.com/puppet-community/puppet-corosync/pull/136
+  https://github.com/puppet-community/puppet-corosync/pull/141
+  https://github.com/puppet-community/puppet-corosync/pull/138
+  https://github.com/puppet-community/puppet-corosync/pull/131
+=== puppet-community/puppet-dotnet ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-dotnet/pull/7
+=== puppet-community/puppet-download_file ===
+  3 open pull requests
+  https://github.com/puppet-community/puppet-download_file/pull/11
+  https://github.com/puppet-community/puppet-download_file/pull/16
+  https://github.com/puppet-community/puppet-download_file/pull/17
+=== puppet-community/puppet-extlib ===
+  4 open pull requests
+  https://github.com/puppet-community/puppet-extlib/pull/4
+  https://github.com/puppet-community/puppet-extlib/pull/15
+  https://github.com/puppet-community/puppet-extlib/pull/16
+  https://github.com/puppet-community/puppet-extlib/pull/13
+=== puppet-community/puppet-healthcheck ===
+  2 open pull requests
+  https://github.com/puppet-community/puppet-healthcheck/pull/2
+  https://github.com/puppet-community/puppet-healthcheck/pull/3
+=== puppet-community/puppet-iis ===
+  6 open pull requests
+  https://github.com/puppet-community/puppet-iis/pull/24
+  https://github.com/puppet-community/puppet-iis/pull/30
+  https://github.com/puppet-community/puppet-iis/pull/26
+  https://github.com/puppet-community/puppet-iis/pull/23
+  https://github.com/puppet-community/puppet-iis/pull/37
+  https://github.com/puppet-community/puppet-iis/pull/42
+=== puppet-community/puppet-jenkins_job_builder ===
+  5 open pull requests
+  https://github.com/puppet-community/puppet-jenkins_job_builder/pull/10
+  https://github.com/puppet-community/puppet-jenkins_job_builder/pull/12
+  https://github.com/puppet-community/puppet-jenkins_job_builder/pull/13
+  https://github.com/puppet-community/puppet-jenkins_job_builder/pull/14
+  https://github.com/puppet-community/puppet-jenkins_job_builder/pull/16
+=== puppet-community/puppet-jira ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-jira/pull/79
+=== puppet-community/puppet-kafka ===
+  4 open pull requests
+  https://github.com/puppet-community/puppet-kafka/pull/2
+  https://github.com/puppet-community/puppet-kafka/pull/4
+  https://github.com/puppet-community/puppet-kafka/pull/10
+  https://github.com/puppet-community/puppet-kafka/pull/11
+=== puppet-community/puppet-mcollective ===
+  38 open pull requests
+  https://github.com/puppet-community/puppet-mcollective/pull/113
+  https://github.com/puppet-community/puppet-mcollective/pull/146
+  https://github.com/puppet-community/puppet-mcollective/pull/114
+  https://github.com/puppet-community/puppet-mcollective/pull/160
+  https://github.com/puppet-community/puppet-mcollective/pull/145
+  https://github.com/puppet-community/puppet-mcollective/pull/147
+  https://github.com/puppet-community/puppet-mcollective/pull/138
+  https://github.com/puppet-community/puppet-mcollective/pull/109
+  https://github.com/puppet-community/puppet-mcollective/pull/98
+  https://github.com/puppet-community/puppet-mcollective/pull/143
+  https://github.com/puppet-community/puppet-mcollective/pull/132
+  https://github.com/puppet-community/puppet-mcollective/pull/175
+  https://github.com/puppet-community/puppet-mcollective/pull/176
+  https://github.com/puppet-community/puppet-mcollective/pull/177
+  https://github.com/puppet-community/puppet-mcollective/pull/178
+  https://github.com/puppet-community/puppet-mcollective/pull/179
+  https://github.com/puppet-community/puppet-mcollective/pull/182
+  https://github.com/puppet-community/puppet-mcollective/pull/183
+  https://github.com/puppet-community/puppet-mcollective/pull/185
+  https://github.com/puppet-community/puppet-mcollective/pull/186
+  https://github.com/puppet-community/puppet-mcollective/pull/187
+  https://github.com/puppet-community/puppet-mcollective/pull/184
+  https://github.com/puppet-community/puppet-mcollective/pull/142
+  https://github.com/puppet-community/puppet-mcollective/pull/163
+  https://github.com/puppet-community/puppet-mcollective/pull/162
+  https://github.com/puppet-community/puppet-mcollective/pull/181
+  https://github.com/puppet-community/puppet-mcollective/pull/180
+  https://github.com/puppet-community/puppet-mcollective/pull/190
+  https://github.com/puppet-community/puppet-mcollective/pull/193
+  https://github.com/puppet-community/puppet-mcollective/pull/194
+  https://github.com/puppet-community/puppet-mcollective/pull/173
+  https://github.com/puppet-community/puppet-mcollective/pull/192
+  https://github.com/puppet-community/puppet-mcollective/pull/196
+  https://github.com/puppet-community/puppet-mcollective/pull/205
+  https://github.com/puppet-community/puppet-mcollective/pull/212
+  https://github.com/puppet-community/puppet-mcollective/pull/199
+  https://github.com/puppet-community/puppet-mcollective/pull/209
+  https://github.com/puppet-community/puppet-mcollective/pull/218
+=== puppet-community/puppet-module-puppetboard ===
+  3 open pull requests
+  https://github.com/puppet-community/puppet-module-puppetboard/pull/61
+  https://github.com/puppet-community/puppet-module-puppetboard/pull/71
+  https://github.com/puppet-community/puppet-module-puppetboard/pull/74
+=== puppet-community/puppet-network ===
+  6 open pull requests
+  https://github.com/puppet-community/puppet-network/pull/31
+  https://github.com/puppet-community/puppet-network/pull/62
+  https://github.com/puppet-community/puppet-network/pull/96
+  https://github.com/puppet-community/puppet-network/pull/97
+  https://github.com/puppet-community/puppet-network/pull/98
+  https://github.com/puppet-community/puppet-network/pull/85
+=== puppet-community/puppet-nodejs ===
+  4 open pull requests
+  https://github.com/puppet-community/puppet-nodejs/pull/129
+  https://github.com/puppet-community/puppet-nodejs/pull/115
+  https://github.com/puppet-community/puppet-nodejs/pull/135
+  https://github.com/puppet-community/puppet-nodejs/pull/133
+=== puppet-community/puppet-nsclient ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-nsclient/pull/8
+=== puppet-community/puppet-rundeck ===
+  3 open pull requests
+  https://github.com/puppet-community/puppet-rundeck/pull/92
+  https://github.com/puppet-community/puppet-rundeck/pull/98
+  https://github.com/puppet-community/puppet-rundeck/pull/86
+=== puppet-community/puppet-sslcert ===
+  4 open pull requests
+  https://github.com/puppet-community/puppet-sslcert/pull/4
+  https://github.com/puppet-community/puppet-sslcert/pull/8
+  https://github.com/puppet-community/puppet-sslcert/pull/9
+  https://github.com/puppet-community/puppet-sslcert/pull/11
+=== puppet-community/puppet-staging ===
+  4 open pull requests
+  https://github.com/puppet-community/puppet-staging/pull/35
+  https://github.com/puppet-community/puppet-staging/pull/42
+  https://github.com/puppet-community/puppet-staging/pull/41
+  https://github.com/puppet-community/puppet-staging/pull/64
+=== puppet-community/puppet-unattended_upgrades ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-unattended_upgrades/pull/14
+=== puppet-community/puppet-windows_autoupdate ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-windows_autoupdate/pull/20
+=== puppet-community/puppet-windows_eventlog ===
+  1 open pull requests
+  https://github.com/puppet-community/puppet-windows_eventlog/pull/4
+=== puppet-community/puppetboard ===
+  12 open pull requests
+  https://github.com/puppet-community/puppetboard/pull/52
+  https://github.com/puppet-community/puppetboard/pull/115
+  https://github.com/puppet-community/puppetboard/pull/120
+  https://github.com/puppet-community/puppetboard/pull/108
+  https://github.com/puppet-community/puppetboard/pull/129
+  https://github.com/puppet-community/puppetboard/pull/133
+  https://github.com/puppet-community/puppetboard/pull/48
+  https://github.com/puppet-community/puppetboard/pull/99
+  https://github.com/puppet-community/puppetboard/pull/135
+  https://github.com/puppet-community/puppetboard/pull/123
+  https://github.com/puppet-community/puppetboard/pull/144
+  https://github.com/puppet-community/puppetboard/pull/100
+=== puppet-community/pypuppetdb ===
+  3 open pull requests
+  https://github.com/puppet-community/pypuppetdb/pull/47
+  https://github.com/puppet-community/pypuppetdb/pull/34
+  https://github.com/puppet-community/pypuppetdb/pull/27
+These stats are generated by programs and scripts in:
+
+https://github.com/mhaskel/community_management/
+https://github.com/nibalizer/puppet-community-emails
+
+The sending of the message is not at this time automated.
+If you find this useful, please let us know, we will attempt to push this
+information out every month or so. It is all Open Source so if there are stats
+you'd like to see here you can add them by adding functionality to the above
+repos.
+
+The code on Puppet-Community is 100% open source and we are always looking for
+new contributors. Ping in #puppet, #puppet-dev, or #puppet-community on
+freenode.
+
+Cheers,
+The Puppet Community Team
