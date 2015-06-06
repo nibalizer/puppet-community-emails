@@ -26,7 +26,7 @@ python comment_stats.py >> $email_file
 echo "" >> $email_file
 
 # Community Mgmt repo comes from Morgan++
-./community_management/pull_requests.rb -t `cat config.py | grep token | cut -d "=" -f 2 |tr -d '"'` -n puppet-community
+./community_management/pull_requests.rb -t `cat config.py | grep token | cut -d "=" -f 2 |tr -d '"'` -n puppet-community >> $email_file
 
 
 cat share/closing.txt >> $email_file
