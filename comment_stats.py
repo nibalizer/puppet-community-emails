@@ -71,6 +71,15 @@ if __name__ == "__main__":
                     user_action(issue.closed_by.login, 'closed')
                     total_issues_closed += 1
 
+            # Handle merge
+            if issue.state == 'closed' and before(issue.closed_at):
+                if issue.pull_request is not None:
+                    newrepo = g.get_repo('puppet-community/'+repo.name)
+                    pr = newrepo.get_pull(issue.number)
+                    if pr.merged:
+                        if before(pr.merged_at):
+                            user_action(pr.merged_by.login, 'merged')
+
 
 
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
