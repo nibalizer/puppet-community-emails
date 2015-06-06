@@ -31,8 +31,7 @@ def user_action(user, action):
                 'commented': 0,
                 'reopened': 0,
                 'opened': 0 }
-    else:
-        user_actions[user][action] += 1
+    user_actions[user][action] += 1
 
 
 def pp_user_actions():
