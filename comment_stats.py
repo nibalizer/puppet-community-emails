@@ -67,8 +67,8 @@ if __name__ == "__main__":
 
 
 
-    pp_user_actions()
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
+    pp_user_actions()
 
 
 
