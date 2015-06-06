@@ -7,5 +7,5 @@ The sending of the message is not at this time automated.
 If you find this useful, please let us know, we will attempt to push this
 information out every month or so.
 
-Thanks,
+Cheers,
 The Puppet Community Team
