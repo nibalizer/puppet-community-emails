@@ -87,6 +87,7 @@ if __name__ == "__main__":
     print "Total Issues Created(last 30 days): {0}".format(total_issues_created)
     print "Total Issues Closed(last 30 days): {0}".format(total_issues_closed)
     print "Total PR Merges(last 30 days): {0}".format(total_issues_closed)
+    print "Breakdown of last 30 days by user:"
     pp_user_actions()
 
 
